@@ -1,0 +1,38 @@
+CSS stands for Cascading Style Sheets.
+CSS is enhances the appearance of the web page by applying styles to the HTML elements.
+Cascading Style Sheets are an important way to control how your web pages look.
+CSS is used to define styles for your web pages, including the design, layout and variations in display for different devices and screen sizes.
+CSS it is not a programming language.
+CSS syntax refers to the way we write CSS code.
+CSS is a simple, intuitive language that anyone can learn.
+
+HTML VS CSS :
+HTML is a markup language used to create static web pages and web applications.
+CSS is a style sheet language responsible for the presentation of documents written in a markup language. 
+
+Types of CSS :
+1. Inline CSS -> Inline CSS has the highest priority.
+2. Internal CSS.
+3. External CSS.
+
+Syntax :
+p : is a selector
+color : is a priority
+red : is a value
+
+p {
+  color: red;
+  text-align: center;
+}
+
+selectors :
+tag selector : tag name -> p,h1,img,etc..
+class selector : class name ->heading, myclass,etc..
+id selector : id name -> myid, para, etc..
+
+comment : 
+/* This is a single-line comment */
+
+/* This is
+a multi-line
+comment */
