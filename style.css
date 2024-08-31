@@ -1,3 +1,4 @@
+/* Style using Tag selector */
 h1{
     color: aqua;
     background-color: black;
@@ -7,4 +8,20 @@ p{
     background-color: cadetblue;
     font-size: 20px;
     font-weight: bold;
+}
+
+
+/* style using class selector */
+.className{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+}
+
+
+/* style using id selector */
+#myId{
+    height: auto;
+    width: 100%;
+    background-color: aquamarine;
 }
